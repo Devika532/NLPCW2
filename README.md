@@ -93,7 +93,7 @@ Confusion matrix and training loss plots are included
 ---
 
 ## Author  
-**Devika**  
+**Devika Giriyappa**  
 MSc Data Science & Computational Intelligence  
 Coventry University  
 
