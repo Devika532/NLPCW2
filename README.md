@@ -92,11 +92,6 @@ Confusion matrix and training loss plots are included
 
 ---
 
-## How to Run  
-Install dependencies:
-```bash
-pip install torch transformers scikit-learn matplotlib seaborn pandas
-
 ## Author  
 **Devika**  
 MSc Data Science & Computational Intelligence  
